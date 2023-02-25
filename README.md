@@ -1,5 +1,5 @@
 # mupeWIFI
 
-mupe Wifi componente für ESP-idf konfigurierbar über Webpage
+mupe Wifi componente for esp-idf configurable via webpage
 
 ![bild](doc/webWIFI.png)
